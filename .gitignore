@@ -1,0 +1,10 @@
+__pycache__/
+load/
+load_test/
+test/
+output/
+saved/
+epoches5_large_dsLoRa
+*.zip
+*.pth
+*.deb
