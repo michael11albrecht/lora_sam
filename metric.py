@@ -1,3 +1,5 @@
+## Code by: Aleksandre Kandelaki https://github.com/kandelak/SolarSAM
+
 from torchmetrics.classification import BinaryJaccardIndex # IoU
 from torchmetrics.classification import Dice
 from torchmetrics.classification import BinaryPrecision

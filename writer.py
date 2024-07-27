@@ -1,3 +1,5 @@
+## Code by: Aleksandre Kandelaki https://github.com/kandelak/SolarSAM
+
 # Writes logs to the Tensorboard
 from tensorboardX import SummaryWriter
 import os
